@@ -1,0 +1,5 @@
+\\CAPRICA\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp\bin\Debug\homeBrew.File.BackUp.dll
+\\CAPRICA\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp\bin\Debug\homeBrew.File.BackUp.pdb
+\\CAPRICA\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp\obj\Debug\ResolveAssemblyReference.cache
+\\CAPRICA\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp\obj\Debug\homeBrew.File.BackUp.dll
+\\CAPRICA\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp\obj\Debug\homeBrew.File.BackUp.pdb

@@ -1,0 +1,11 @@
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\bin\Debug\homeBrew.File.BackUp.Application.exe
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\bin\Debug\homeBrew.File.BackUp.Application.pdb
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\bin\Debug\homeBrew.File.BackUp.dll
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\bin\Debug\homeBrew.File.BackUp.pdb
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\ResolveAssemblyReference.cache
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.Debugger.resources
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.Properties.Resources.resources
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\GenerateResource.read.1.tlog
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\GenerateResource.write.1.tlog
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.exe
+\\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.pdb
