@@ -58,8 +58,6 @@ namespace homeBrew.File.BackUp
         {
             Utility.Belt utilBelt = new Utility.Belt();
 
-
-
             try
             {
                 utilBelt.WriteToFile("BackUp Start: " + Convert.ToString(DateTime.Now));
@@ -132,19 +130,20 @@ namespace homeBrew.File.BackUp
 
                 try
                 {
-                    FileAttributes attribs = System.IO.File.GetAttributes(folder);
-                    if ((attribs & FileAttributes.Hidden) != FileAttributes.Hidden)
-                    {
-                        this.RecursiveSearch_NewAndUpdated(folder, "*.*");
-                    }
-                    else
-                    {
-                        utilBelt.WriteToFile("Skipped Folder: " + folder);
-                    }
+                    //FileAttributes attribs = System.IO.File.GetAttributes(folder);
+                    //if ((attribs & FileAttributes.Hidden) != FileAttributes.Hidden)
+                    //{
+                    //    this.RecursiveSearch_NewAndUpdated(folder, "*.*");
+                    //}
+                    //else
+                    //{
+                    //    utilBelt.WriteToFile("Skipped Folder: " + folder);
+                    //}
+                    this.RecursiveSearch_NewAndUpdated(folder, "*.*");
                 }
                 catch (Exception ex)
                 {
-                    utilBelt.WriteToFile("Error Occured With Exception: " + ex.ToString());
+                    utilBelt.WriteToFile("Error Occured Opening Folder With Exception: " + ex.ToString());
                 }
             }
         }
@@ -185,10 +184,18 @@ namespace homeBrew.File.BackUp
                 }
                 foreach (string folder in folders)
                 {
-                    FileAttributes attribs = System.IO.File.GetAttributes(folder);
-                    if ((attribs & FileAttributes.Hidden) != FileAttributes.Hidden)
+                    try
                     {
-                        this.RecursiveSearch_Deleted(folder, "*.*");
+                        //FileAttributes attribs = System.IO.File.GetAttributes(folder);
+                        //if ((attribs & FileAttributes.Hidden) != FileAttributes.Hidden)
+                        //{
+                        //    this.RecursiveSearch_Deleted(folder, "*.*");
+                        //}
+                        //    this.RecursiveSearch_Deleted(folder, "*.*");
+                    }
+                    catch (Exception ex)
+                    {
+                        utilBelt.WriteToFile("Error Occured Opening Folder For Deleted Search With Exception: " + ex.ToString());
                     }
                 }
             }

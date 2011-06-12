@@ -9,3 +9,14 @@
 \\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\GenerateResource.write.1.tlog
 \\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.exe
 \\caprica\Viper\Source\C_Sharp\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.pdb
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.exe
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.pdb
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\bin\Debug\homeBrew.File.BackUp.Application.exe
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\bin\Debug\homeBrew.File.BackUp.Application.pdb
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\bin\Debug\homeBrew.File.BackUp.dll
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\bin\Debug\homeBrew.File.BackUp.pdb
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.Debugger.resources
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\homeBrew.File.BackUp.Application.Properties.Resources.resources
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Merlin\Source\homeBrew.File.BackUp\homeBrew.File.BackUp.Application\obj\x86\Debug\GenerateResource.write.1.tlog

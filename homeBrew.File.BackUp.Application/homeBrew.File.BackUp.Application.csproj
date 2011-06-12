@@ -34,8 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="homeBrew.File.BackUp">
-      <HintPath>C:\_KeepMe\References\homeBrew.File.BackUp.dll</HintPath>
+    <Reference Include="homeBrew.File.BackUp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\References\homeBrew.File.BackUp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
