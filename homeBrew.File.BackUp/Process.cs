@@ -130,15 +130,6 @@ namespace homeBrew.File.BackUp
 
                 try
                 {
-                    //FileAttributes attribs = System.IO.File.GetAttributes(folder);
-                    //if ((attribs & FileAttributes.Hidden) != FileAttributes.Hidden)
-                    //{
-                    //    this.RecursiveSearch_NewAndUpdated(folder, "*.*");
-                    //}
-                    //else
-                    //{
-                    //    utilBelt.WriteToFile("Skipped Folder: " + folder);
-                    //}
                     this.RecursiveSearch_NewAndUpdated(folder, "*.*");
                 }
                 catch (Exception ex)
@@ -186,12 +177,7 @@ namespace homeBrew.File.BackUp
                 {
                     try
                     {
-                        //FileAttributes attribs = System.IO.File.GetAttributes(folder);
-                        //if ((attribs & FileAttributes.Hidden) != FileAttributes.Hidden)
-                        //{
-                        //    this.RecursiveSearch_Deleted(folder, "*.*");
-                        //}
-                        //    this.RecursiveSearch_Deleted(folder, "*.*");
+                        this.RecursiveSearch_Deleted(folder, "*.*");
                     }
                     catch (Exception ex)
                     {
